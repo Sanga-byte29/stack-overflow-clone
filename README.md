@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/92365361/174068783-b234d5d4-7afc-4128-
 [![MONGOOSE](https://img.shields.io/static/v1?label=mongoose&message=6.3.8&color=purple)](https://mongoosejs.com/)
 [![NODEMON](https://img.shields.io/static/v1?label=nodemon&message=2.0.16&color=brown)](https://www.npmjs.com/package/nodemon)
 
-### [🌐 Website](https://stack-overflow-clone-mern.netlify.app)  |  [📹 Demo Video](https://user-images.githubusercontent.com/92365361/174068783-b234d5d4-7afc-4128-971c-5a2d2f8e6c2c.mp4) 
+
 
 # StackOverflow-Clone
 
@@ -39,7 +39,7 @@ Hereby listed manual way to setup:-
 
    ```
    mkdir Stackoverflow-Clone
-   cd Stackoverflow-Clone
+   cd stack-overflow-clone
    ```
 
 2. Setup the code -
@@ -48,7 +48,7 @@ Hereby listed manual way to setup:-
    - Clone the code-
 
      ```
-     git clone https://github.com/abhinav20001/StackOverflow-Clone.git
+     git clone https://github.com/Sanga-byte29/stack-overflow-clone.git
      cd Stackoverflow-Clone
      ```
 
@@ -86,9 +86,7 @@ Hereby listed manual way to setup:-
 
 ## DEMO
 
-#### VIDEO - [Watch the video](https://user-images.githubusercontent.com/92365361/174068783-b234d5d4-7afc-4128-971c-5a2d2f8e6c2c.mp4)
 
-_Video Last Updated on 16th June, 2022_
 
 #### IMAGES
 
@@ -99,7 +97,6 @@ _Video Last Updated on 16th June, 2022_
 <img src="/demo/images/9.png" width=340px /><img src="/demo/images/10.png" width=340px />
 <img src="/demo/images/11.png" width=340px /><img src="/demo/images/12.png" width=340px />
 
-## CONTRIBUTOR
  
-### Abhinav Kumar | [📝 LinkedIn](https://www.linkedin.com/in/abhinav-kumar-7a9a39200/)
+### Sangram Subudhi | [📝 LinkedIn](https://www.linkedin.com/in/sangram-subudhi-a69860194/)
 
