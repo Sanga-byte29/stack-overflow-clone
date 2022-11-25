@@ -9,7 +9,7 @@ export const signup = (authData, navigate) => async (dispatch) => {
         dispatch(setCurrentUser(JSON.parse(localStorage.getItem('Profile'))))
         navigate('/')
     } catch (error) {
-        if (error == `${error_url}404`) alert("User already Exist.");
+        if (error === `${error_url}404`) alert("User already Exist.");
         else alert("Something went worng..\nTry Again!!");
         console.log(error)
     }
@@ -22,8 +22,8 @@ export const login = (authData, navigate) => async (dispatch) => {
         dispatch(setCurrentUser(JSON.parse(localStorage.getItem('Profile'))))
         navigate('/')
     } catch (error) {
-        if (error == `${error_url}404`) alert("User don't Exist.");
-        else if (error == `${error_url}400`) alert("Invalid credentials");
+        if (error === `${error_url}404`) alert("User don't Exist.");
+        else if (error === `${error_url}400`) alert("Invalid credentials");
         else alert("Something went worng..\nTry Again!!");
         console.log(error)
     }
